@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **PUNNABHAGATH03@GMAIL.COM**
 
-- 📄 Know about my experiences [IAM CURRENTLY WORKING ON PROJECTS](IAM CURRENTLY WORKING ON PROJECTS)
+- 📄 Know about my experiences (IAM CURRENTLY WORKING ON PROJECTS).
 
 - ⚡ Fun fact **IAM CRAZY SO,WANT TO EXPLORE MORE PROJECTS.**
 
