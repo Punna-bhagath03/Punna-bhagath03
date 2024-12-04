@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **WEB TECHNOLOGY**
 
-- 💬 Ask me about **C,C++,JAVA,HTML,CSS,JS**
+- 💬 Ask me about **JAVA,MERN,NEXT jS**
 
 - 📫 How to reach me **PUNNABHAGATH03@GMAIL.COM**
 
