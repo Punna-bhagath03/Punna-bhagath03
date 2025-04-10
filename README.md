@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm PUNNA BHAGATH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align=“right”alt=“coding” width=“400”src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2GlqNqR8mewplBjRhka-rQ&ust=1703409194029000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC35fabpYMDFQAAAAAdAAAAABAI”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punna-bhagath03&label=Profile%20views&color=0e75b6&style=flat" alt="punna-bhagath03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/punnabhagath" target="blank"><img src="https://img.shields.io/twitter/follow/punnabhagath?logo=twitter&style=for-the-badge" alt="punnabhagath" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA SCRIPT**
 
-- 🌱 I’m currently learning **WEB TECHNOLOGY**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **JAVA,MERN,NEXT jS**
+- 💬 Ask me about **JAVA,MERN,NEXT jS ,DataBases**
 
 - 📫 How to reach me **PUNNABHAGATH03@GMAIL.COM**
 
